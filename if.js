@@ -8,7 +8,7 @@ function greaterThan10(num){
   if (num > 10){
     return num;
   } else{
-    return "Sorry that number is not 10";
+    return "Sorry that number is not 10!";
   }
 }
 
